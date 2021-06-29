@@ -2,3 +2,4 @@ venv
 *.pyc
 _pycache_
 *.egg-info
+get_token.py
